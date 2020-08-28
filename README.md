@@ -1,4 +1,4 @@
-# clipractice
+# vuejs calculator
 
 ## Project setup
 ```
